@@ -1,5 +1,5 @@
 # roblox
-my scripts ive created for roblox (use bleach for eyes after experience with them)
+my scripts ive created for dragon blox (use bleach for eyes after experience with them)
 
 ok so if u dont know what MiT license is its basically u can use my code, modify it and shit but just credit me aight
 
